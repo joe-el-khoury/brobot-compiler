@@ -1,0 +1,29 @@
+BroBot, you are under my command!
+
+move!3
+move!-3
+
+turn->left
+
+move!3
+move!-3
+
+turn->left
+
+move!3
+move!-3
+
+turn->right
+
+move!3
+move!-3
+
+turn->right
+
+move!3
+move!-3
+
+LED[1]->ON
+taunt
+
+BroBot, I release you!

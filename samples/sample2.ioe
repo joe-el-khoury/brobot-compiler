@@ -1,0 +1,12 @@
+BroBot, you are under my command!
+
+turn->left
+turn->right
+taunt
+LED[1]->ON
+LED[2]->ON
+LED[1]->ON
+LED[2]->ON
+turn->left
+
+BroBot, I release you!
